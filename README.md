@@ -3,6 +3,7 @@
 ### Latest web apps
 
 - [☕ PKU Tools (PWA)](https://pkutools.com/)
+- [🌀 Simple Nutrition Calculator (PWA)](https://github.com/andrereus/simple-nutrition-calculator)
 - [🍴 PKU Manager (Hybrid App)](https://pkumanager.com/)
 - [📝 Phe Rechner (Hybrid App)](https://pherechner.de/)
 
