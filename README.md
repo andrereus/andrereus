@@ -11,5 +11,5 @@
 
 - [💻 DEV.to](https://dev.to/andrereus)
 - [✏ Codepen](https://codepen.io/andrereus)
-- [✏ CodeSandbox](https://codesandbox.io/u/andrereus)
+- [📦 CodeSandbox](https://codesandbox.io/u/andrereus)
 - [🎨 Behance](https://www.behance.net/andrereus)
