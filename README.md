@@ -1,4 +1,4 @@
-### Hi, I'm André 👋 a Full Stack Web and App Developer
+### Hi, I'm André 👋 a software engineer and designer.
 
 ### Latest websites
 
