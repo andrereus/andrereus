@@ -2,7 +2,6 @@
 
 ### Currently
 
-- Open for hire
 - [Google UX Design Certificate Course](https://www.coursera.org/professional-certificates/google-ux-design-de)
 
 ### Latest websites
