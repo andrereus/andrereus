@@ -3,9 +3,9 @@
 ### Latest websites
 
 - [🏠 Website](https://andrereus.com/)
-- [☕ PKU Tools (PWA)](https://pkutools.com/)
-- [🌀 Simple Nutrition Calculator (PWA)](https://simple-nutrition-calculator.vercel.app/)
-- [🍴 PKU Manager (Hybrid App)](https://pkumanager.com/)
+- [☕ PKU Tools](https://pkutools.com/)
+- [🌀 Simple Nutrition Calculator](https://simple-nutrition-calculator.vercel.app/)
+- [🍴 PKU Manager](https://pkumanager.com/)
 
 ### More about me
 
