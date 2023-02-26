@@ -1,16 +1,15 @@
 ### Hi, I'm André 👋 a software engineer and designer.
 
-### Latest websites
+### Apps
 
-- [🏠 Website](https://andrereus.com/)
 - [☕ PKU Tools](https://pkutools.com/)
 - [🌀 Simple Nutrition Calculator](https://simple-nutrition-calculator.vercel.app/)
 - [🍴 PKU Manager](https://pkumanager.com/)
+- [📝 Phe Rechner](https://pherechner.de/)
 
-### More about me
+### Social
 
-- [💻 DEV.to](https://dev.to/andrereus)
+- [🏠 Website](https://andrereus.com/)
 - [✏ Codepen](https://codepen.io/andrereus)
-- [📦 CodeSandbox](https://codesandbox.io/u/andrereus)
+- [📬 Substack](https://andrereus.substack.com/)
 - [🎨 Behance](https://www.behance.net/andrereus)
-- [🧑‍🎨 Dribbble](https://dribbble.com/andrereus)
