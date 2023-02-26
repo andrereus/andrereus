@@ -11,6 +11,6 @@
 
 - [🏠 Website](https://andrereus.com/)
 - [✏ Codepen](https://codepen.io/andrereus)
-- [⏺ Medium](https://medium.com/@andrereus)
 - [📬 Substack](https://andrereus.substack.com/)
+- [⏺ Medium](https://medium.com/@andrereus)
 - [🎨 Behance](https://www.behance.net/andrereus)
