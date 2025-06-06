@@ -1,2 +1,3 @@
 ### Hi, I'm André 👋 a software developer.
-I care about architecture, code quality and user experience.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M0GIVPI)
